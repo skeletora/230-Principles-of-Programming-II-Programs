@@ -1,0 +1,7 @@
+Rebecca Aloisio
+CSCI 230 002
+Assignment #3
+
+Overall, I was very surprised at how quickly recursion can get out of hand in its the number of function calls.  I began to get nervous as the program continued to run and it took longer and longer for it to calculate the value.  I was also surprised by how quickly the loop version ran, both on its own and in comparison.
+
+I found the recursive version of Fibonacci much easier to program, but seeing how long it eventually took, I am much more willing to take the time to write it with a loop.
