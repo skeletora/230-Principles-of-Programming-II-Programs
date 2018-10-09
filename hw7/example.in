@@ -1,0 +1,11 @@
+3 6 /
+print
+fprint
+3 6 -
+print
+15 7 1 1 + - / 3 * 2 1 1 + + -
+print
+dump
+clear
+off
+
