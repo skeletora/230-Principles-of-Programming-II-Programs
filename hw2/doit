@@ -1,0 +1,33 @@
+#!/bin/bash
+
+if [ -z $1 ]; then
+   echo
+   echo give a program to test 
+   echo 
+   echo Example:
+   echo doit palindrome
+   echo
+   exit
+fi
+
+~dbennett/230/hw2/data/doit2 $1
+echo
+read -p "continue "
+echo
+
+~dbennett/230/hw2/data/doit3 $1
+echo
+read -p "continue "
+echo
+
+~dbennett/230/hw2/data/doit4 $1
+echo
+read -p "continue "
+echo
+
+~dbennett/230/hw2/data/doit5 $1
+echo
+read -p "continue "
+echo
+
+~dbennett/230/hw2/data/doit6 $1
